@@ -1,6 +1,6 @@
 # NLP_Booking_com_Analysis
 
-* How to run:
+How to run:
   Make sure the geckodriver executable is in the same directory as notebook files
 
 Web Scraping project:
